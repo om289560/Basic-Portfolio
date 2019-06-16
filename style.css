@@ -1,0 +1,38 @@
+body {
+    background-image: url("cool-background.png");
+}
+
+header {
+    padding-top: 0%;
+    height: 150px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+}
+
+div {
+    float: left;
+    display: block;
+    padding-top: 0%;
+    height: 150px;
+    font-family: 'Georgia', serif;
+    font-size: medium;
+    background-color: teal;
+    color: #ffffff;
+    width: 200px;
+}
+
+nav {
+    padding: 20px;
+    font-family: 'Georgia', serif;
+    text-align: right;
+    background-color: #ffffff;
+    color: #777777
+}
+
+.mainDiv {
+    display: block;
+    width: 960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+}
